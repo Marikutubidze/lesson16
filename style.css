@@ -1,0 +1,8 @@
+#ul-list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.image-block {
+  height: 100px;
+}
